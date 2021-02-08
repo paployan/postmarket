@@ -1,0 +1,9 @@
+{
+    "vendor": "Поставщик",
+    "product-code": "Код продукта",
+    "cart": "Корзина",
+    "similar-products": "Похожие товары",
+    "color": "Цвет",
+    "size": "Размер",
+    "required": "Пожалуйста, выберите {{ attribute }}"
+}

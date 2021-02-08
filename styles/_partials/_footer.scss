@@ -1,0 +1,14 @@
+footer {
+  margin-top: 14.375rem;
+  background-color: $primary;
+  padding: 3rem 1rem;
+  color: $white;
+
+  .nav-links {
+
+    .nav-link {
+      color: $white;
+      padding: 6.5px 0 !important;
+    }
+  }
+}

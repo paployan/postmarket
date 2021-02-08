@@ -1,0 +1,14 @@
+{
+    "locales": ["hy", "ru", "en"],
+    "defaultLocale": "hy",
+    "pages": {
+        "*": ["auth", "common", "menu"],
+        "/": ["home"],
+        "/product/[slug]": ["product"],
+        "/account/wishlist": ["account"],
+        "/account/personal-information": ["account"],
+        "/account/history": ["account"]
+    },
+    "localeDetection": false,
+    "showDefaultLocale": true
+} 

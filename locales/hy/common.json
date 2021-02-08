@@ -1,0 +1,53 @@
+{
+    "title": "Փոստմարկետ",
+    "offer-of-the-day": "Օրվա առաջարկ",
+    "sale": "Զեղչված ապրանքներ",
+    "copyright": "Բոլոր իրավունքները պաշտպանված են:",
+    "description": "«Փոստմարկետ»-ը բացառիկ ծառայություն է, որը հնարավորություն է ընձեռնում իր հաճախորնդներին կատարել գնումներ կատալոգի միջոցով և առցանց:",
+
+    "print-order": "Տպել պատվերի հայտը",
+    "empty-cart": "Ձեր զամբյուղը դատարկ է",
+
+    "code": "Կոդ",
+    "product": "Ապրանք",
+    "price": "Գին",
+    "quantity": "Քանակ",
+    "product-description": "Նկարագրություն",
+    "total": "Ընդհանուր",
+    "remove": "Հեռացնել",
+    "created_at": "Գնման ամսաթիվ",
+    "status": "Կարգավիճակ",
+    "buy_again": "Գնել կրկին",
+
+    "delivery-amount": "Առաքման գումար",
+    "subject-to-payment": "Ենթակա է վճարման",
+    "type-of-delivery": "Առաքման եղանակ",
+    "addressed-delivery": "Հասցեական առաքում",
+    "post-delivery": "Առաքում փոստային բաժանմունք",
+    "payment-option": "Վճարման տարբերակ",
+    "payment-cash": "Կանխիկ",
+    "continue": "Շարունակել",
+
+    "lng-hy": "Հայ",
+    "lng-ru": "Рус",
+    "lng-en": "Eng",
+
+    "status-pending": "Ընթացիկ",
+    "status-refunded": "Վերադարձված",
+    "status-expired": "ժամկետանց",
+    "status-delivered": "Առաքված",
+    "status-approved": "Հաստատված",
+
+    "no-data": "Ցուցադրման տվյալներ չկան",
+
+    "choose": "Ընտրել",
+    "min-price": "Նվազագույն գին",    
+    "max-price": "Առավելագույն գին",
+    "order-by-text": "Դասավորել ըստ",
+    "order-price-asc": "Գնային աճի",
+    "order-price-desc": "նվազման",
+
+    "checkout-success": "Շնորհակալություն, Ձեր պատվերը հաջողությամբ հաստատվել է:",
+    "not-found": "Էջը չի գտնվել",
+    "error-server": "An error occurred on the server"
+}

@@ -1,0 +1,9 @@
+{
+    "vendor": "Vendor",
+    "product-code": "Product code",
+    "cart": "Cart",
+    "similar-products": "Similar goods",
+    "color": "Color",
+    "size": "Size",
+    "required": "Please select {{ attribute }}"
+}

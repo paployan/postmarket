@@ -1,0 +1,124 @@
+.card-shadow {
+  background: $white;
+  box-shadow: $shadow;
+  border-radius: 10px;
+}
+
+.card-shadow-light {
+  background: $white;
+  box-shadow: $shadow-light;
+  border-radius: 15px;
+}
+
+.card-shadow-dark {
+  background: $white;
+  box-shadow: $shadow-light;
+  border-radius: 8px;
+}
+
+.card {
+  text-align: center;
+  border: 0;
+
+  &.product {
+    box-shadow: none;
+    text-align: left;
+    cursor: pointer;
+
+    .card-img {
+      background: $white;
+      box-shadow: $shadow-light;
+      border-radius: 5px;
+      padding: 0;
+
+      &:hover, &:active {
+        box-shadow: 0px 4px 40px rgba(14, 79, 138, 0.2);
+      }
+    }
+
+    .card-body {
+      background: inherit !important;
+      box-shadow: none !important;
+      color: $dark-text-color !important;
+      padding: 1.5rem 0 0 !important;
+    }
+  }
+
+  &.card-accordion {
+    overflow: visible;
+    text-align: left;
+    box-shadow: none;
+    border-radius: 0;
+
+    .card-header {
+      cursor: pointer;
+      background-color: inherit;
+      padding: 0.2rem 0;
+      border-bottom: 1.5px solid $dark-text-color !important;
+
+      a {
+        color: $dark-text-color !important;
+        vertical-align: -webkit-baseline-middle;
+      }
+    }
+
+    .nav-item {
+      .nav-link {
+        color: $dark-text-color !important;
+        padding: 0;
+
+        &.active, &:hover {
+          color: #0063BD !important;
+        }
+      }
+    }
+
+    .card-body {
+      background: inherit;
+      box-shadow: none;
+      color: $dark-text-color;
+      padding: 1.5rem 0 0;
+    }
+  }
+
+  .card-img {
+    padding: 1.6rem 4rem 3.8rem;
+  }
+
+  .card-title {
+    font-size: 1.125rem;
+  }
+
+  .card-body {
+    background: $secondary;
+    color: $white;
+    box-shadow: 0px 4px 8px rgba(14, 79, 138, 0.3);
+    border-radius: 0 0 15px 15px;
+    // padding: 1.6rem 2rem 2.5rem;
+    padding: 2.1rem 1.8rem;
+    &.h-75 {
+      height: 7.5rem;
+    }
+  }
+}
+
+@media (max-width: 1198px) {
+  .card {
+    .card-title {
+      font-size: 1rem;
+    }
+
+    .card-body {
+      padding: 1.6rem 1rem 2.5rem;
+    }
+  }
+}
+
+@media (min-width: 1440px) {
+  .card {
+    .card-body {
+      // padding: 1.6rem 2.3rem 2.5rem;
+      padding: 2.1rem .8rem;
+    }
+  }
+}

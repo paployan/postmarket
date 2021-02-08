@@ -1,0 +1,54 @@
+{
+    "title": "Փոստմարկետ",
+    "offer-of-the-day": "Offer of the day",
+    "sale": "Discounted products",
+    "copyright": "All rights reserved.",
+    "description": "«Փոստմարկետ» is an exclusive service that allows its customers to make purchases through the catalog and online.",
+
+    "print-order": "Print Order",
+    "empty-cart": "Your cart is empty",
+
+    "code": "Code",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "product-description": "Description",
+    "total": "Total",
+    "remove": "Remove",
+    "created_at": "Purchase date",
+    "status": "Status",
+    "buy_again": "Buy again",
+
+    "delivery-amount": "Delivery amount",
+    "subject-to-payment": "Subject to payment",
+    "type-of-delivery": "Type of delivery",
+    "addressed-delivery": "Addressed delivery",
+    "post-delivery": "Delivery to the post office",
+    "use-my-info": "Use my personal information",
+    "payment-option": "Payment option",
+    "payment-cash": "Cash",
+    "continue": "Continue",
+
+    "lng-hy": "Հայ",
+    "lng-ru": "Рус",
+    "lng-en": "Eng",
+
+    "status-pending": "Pending",
+    "status-refunded": "Refunded",
+    "status-expired": "Expired",
+    "status-delivered": "Delivered",
+    "status-approved": "Approved",
+
+    "no-data": "No data to display",
+
+    "choose": "Select",
+    "min-price": "Min price",    
+    "max-price": "Max price",
+    "order-by-text": "Sort by",
+    "order-price-asc": "Price increase",
+    "order-price-desc": "Price Decrease",
+
+    "checkout-success": "Thank you, your order has been successfully approved.",
+    "not-found": "Page Not Found",
+    "error-server": "An error occurred on the server"
+}

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Mardoto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), url(/fonts/Mardoto-Regular.woff2) format('woff2');
+}
+
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+@import "theme";

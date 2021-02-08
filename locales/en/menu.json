@@ -1,0 +1,28 @@
+{
+    "app-name": "Haypost CJSC",
+    "general": "Home",
+    "about-us": "About Us",
+    "our-partners": "Our partners",
+    "what-is-postmarket": "What is PostMarket",
+    "how-to-order": "How to order",
+    "payment-method": "Payment method",
+    "delivery": "Delivery",
+    
+    "useful-links": "Useful links",
+    "terms": "Terms and Conditions",
+    "become-a-partner": "Become a partner",
+
+    "payment-methods": "Payment Methods",
+    "cash": "Cash",
+
+    "contact-us": "Contact Us",
+    "contact-address": "Address: 22 Saryan, 0002, Yerevan",
+    "contact-number": "Tel:",
+    "contact-email": "Email:",
+
+    "login": "Login",
+    "register": "Registration",
+    "logout": "Logout",
+
+    "search": "Search"
+}

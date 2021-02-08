@@ -1,0 +1,28 @@
+{
+    "app-name": "ЗАО Айпост",
+    "general": "Главная",
+    "about-us": "О нас",
+    "our-partners": "Наши партнеры",
+    "what-is-postmarket": "Что такое ПостМаркет",
+    "how-to-order": "Как заказать",
+    "payment-method": "Способ оплаты",
+    "delivery": "Доставка",
+    
+    "useful-links": "Полезные ссылки",
+    "terms": "Условия и положения",
+    "become-a-partner": "Стать партнёром",
+
+    "payment-methods": "Способы оплаты",
+    "cash": "Наличные",
+
+    "contact-us": "Свяжитесь с нами",
+    "contact-address": "Адрес: Ереван, 0002, Сарьяна 22",
+    "contact-number": "Тел.",
+    "contact-email": "Эл. почта.",
+
+    "login": "Логин",
+    "register": "Регистрация",
+    "logout": "Выход",
+
+    "search": "Поиск"
+}

@@ -1,0 +1,9 @@
+{
+    "vendor": "Վաճառող",
+    "product-code": "Ապրանքի կոդ",
+    "cart": "Զամբյուղ",
+    "similar-products": "Նմանատիպ ապրանքներ",
+    "color": "Գույն",
+    "size": "Չափս",
+    "required": "Խնդրում ենք ընտրել {{ attribute }}֊ը"
+}

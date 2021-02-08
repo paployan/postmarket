@@ -1,0 +1,29 @@
+.custom-table {
+  font-size: 18px;
+  color: $dark-text-color;
+
+  thead {
+    th {
+      border: 0;
+      font-size: 16px;
+      line-height: 21px;
+      color: $table-color;
+      font-weight: normal;
+    }
+  }
+
+  img {
+    width: 120px;
+    height: 120px;
+  }
+
+  tr {
+    font-weight: 500;
+  }
+
+  td {
+    vertical-align: middle;
+    border-bottom: 1px solid $table-color;
+    border-top: 0;
+  }
+}

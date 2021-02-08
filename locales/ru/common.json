@@ -1,0 +1,53 @@
+{
+    "title": "Փոստմարկետ",
+    "offer-of-the-day": "Предложение дня",
+    "sale": "Товары со скидкой",
+    "copyright": "Все права защищены.",
+    "description": "«Փոստմարկետ» это эксклюзивная услуга, которая позволяет клиентам совершать покупки через каталог и в режиме онлайн.",
+
+    "print-order": "Распечатать заявку на заказ",
+    "empty-cart": "Ваша корзина пуста",
+
+    "code": "Код",
+    "product": "Продукт",
+    "price": "Цена",
+    "quantity": "Количество",
+    "product-description": "Описание",
+    "total": "Итого",
+    "remove": "Удалить",
+    "created_at": "Дата покупки",
+    "status": "Статус",
+    "buy_again": "Купить снова",
+
+    "delivery-amount": "Сумма доставки",
+    "subject-to-payment": "Подлежит оплате",
+    "type-of-delivery": "Доставка",
+    "addressed-delivery": "Доставка по адресу",
+    "post-delivery": "Доставка в почтовое отделение",
+    "use-my-info": "Использовать мою личную информацию",
+    "payment-option": "Варианты оплаты",
+    "payment-cash": "Наличные",
+    "continue": "Продолжать",
+
+    "lng-hy": "Հայ",
+    "lng-ru": "Рус",
+    "lng-en": "Eng",
+
+    "status-pending": "Текущий",
+    "status-refunded": "Возвращено",
+    "status-expired": "Истекший",
+    "status-delivered": "Доставлен",
+    "status-approved": "Утверждено",
+    "no-data": "Нет данных для отображения",
+
+    "choose": "Выбрать",
+    "min-price": "Минимальная цена",    
+    "max-price": "Максимальная цена",
+    "order-by-text": "Сортировать по",
+    "order-price-asc": "Увеличение цены",
+    "order-price-desc": "Уменьшение",
+
+    "checkout-success": "Спасибо, ваш заказ был успешно одобрен.",
+    "not-found": "Страница не найдена",
+    "error-server": "Произошла ошибка на сервере"
+}
